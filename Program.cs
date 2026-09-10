@@ -107,5 +107,31 @@ double ves = double.Parse(Console.ReadLine());
 double IMT = ves / (rost * rost);
 Console.WriteLine($"ИМТ: {IMT:2}");
 
+Console.Write("Введите имя");
+string name = Console.ReadLine();
+Console.Write("Введите Фамилию");
+string familia = Console.ReadLine();
+char initttt = name[0];
+Console.WriteLine($"{familia} {initttt}.");
+
+Console.WriteLine();
+Console.WriteLine("TryParse на трёх типах");
+
+
+Console.Write("Введите целое число: ");
+string intInput = Console.ReadLine();
+bool intOk = int.TryParse(intInput, out int intValue);
+Console.WriteLine($"int: успех = {intOk}, значение = {intValue}");
+
+
+Console.Write("Введите дробное число: ");
+string doubleInput = Console.ReadLine();
+bool doubleOk = double.TryParse(doubleInput, out double doubleValue);
+Console.WriteLine($"double:   успех = {doubleOk}, значение = {doubleValue}");
+
+Console.Write("Введите дату в формате дд.мм.гггг: ");
+string dateInput = Console.ReadLine();
+bool dateOk = DateTime.TryParse(dateInput, out DateTime dateValue);
+Console.WriteLine($"DateTime: успех = {dateOk}, значение = {dateValue}");
 
 
