@@ -100,4 +100,12 @@ Console.WriteLine($"Средний балл: {ball}");
 Console.WriteLine($"Балл >= 4.0: {ballvivod}");
 Console.WriteLine($"Любимая буква: {bykva}");
 
+Console.Write("Введите свой рост в метрах:");
+double rost = double.Parse(Console.ReadLine());
+Console.Write("Введите свой вес в кг:");
+double ves = double.Parse(Console.ReadLine());
+double IMT = ves / (rost * rost);
+Console.WriteLine($"ИМТ: {IMT:2}");
+
+
 
