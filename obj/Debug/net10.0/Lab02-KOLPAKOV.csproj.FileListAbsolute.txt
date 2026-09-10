@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Lab02-KOLPAKOV\bin\Debug\net10.0\Lab02-KOLPAKOV.exe
+C:\Users\user\Desktop\Lab02-KOLPAKOV\bin\Debug\net10.0\Lab02-KOLPAKOV.deps.json
+C:\Users\user\Desktop\Lab02-KOLPAKOV\bin\Debug\net10.0\Lab02-KOLPAKOV.runtimeconfig.json
+C:\Users\user\Desktop\Lab02-KOLPAKOV\bin\Debug\net10.0\Lab02-KOLPAKOV.dll
+C:\Users\user\Desktop\Lab02-KOLPAKOV\bin\Debug\net10.0\Lab02-KOLPAKOV.pdb
+C:\Users\user\Desktop\Lab02-KOLPAKOV\obj\Debug\net10.0\Lab02-KOLPAKOV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Lab02-KOLPAKOV\obj\Debug\net10.0\Lab02-KOLPAKOV.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Lab02-KOLPAKOV\obj\Debug\net10.0\Lab02-KOLPAKOV.AssemblyInfo.cs
+C:\Users\user\Desktop\Lab02-KOLPAKOV\obj\Debug\net10.0\Lab02-KOLPAKOV.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lab02-KOLPAKOV\obj\Debug\net10.0\Lab02-KOLPAKOV.dll
+C:\Users\user\Desktop\Lab02-KOLPAKOV\obj\Debug\net10.0\refint\Lab02-KOLPAKOV.dll
+C:\Users\user\Desktop\Lab02-KOLPAKOV\obj\Debug\net10.0\Lab02-KOLPAKOV.pdb
+C:\Users\user\Desktop\Lab02-KOLPAKOV\obj\Debug\net10.0\Lab02-KOLPAKOV.genruntimeconfig.cache
+C:\Users\user\Desktop\Lab02-KOLPAKOV\obj\Debug\net10.0\ref\Lab02-KOLPAKOV.dll
